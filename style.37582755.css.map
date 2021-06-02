@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YACE,kBACF,CAEA,UACE,kBACF,CAEA,uBACE,eACF","file":"style.37582755.css","sourceRoot":"..\\src","sourcesContent":[".div_inputs {\n  margin-bottom: 10px;\n}\n\n.fieldset {\n  margin-bottom: 20px;\n}\n\n.div_inputs:last-child {\n  margin-bottom: 0;\n}\n"]}
